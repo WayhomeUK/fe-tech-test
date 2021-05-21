@@ -1,6 +1,6 @@
 # Front end tech test
 
-## Set up
+## Getting set up
 
 Clone down this repo on your computer
 
@@ -10,33 +10,31 @@ In the project directory, run:
 
 ## The brief
 
-In `src/locations/data/location-data` there is an array of locations imported into `Locations`.
+In `src/locations/data/location-data` there is an array of locations imported into `Locations`
 
 The brief is to use this array of locations to:
 
 1. group each location by its county
-2. list each county with it's towns in the `Locations` component
+2. list each county with it's towns in the `Locations` component so show like the example:
 
 Example:
 
-```
-* Bedfordshire
+- Bedfordshire
 
-    * Leighton Buzzard
-    * Ascot
-    * Bracknell
+  - Leighton Buzzard
+  - Ascot
+  - Bracknell
 
-* Hampshire
+- Hampshire
 
-  * Blackwater
-  * Tadley
-  * Farnborough
+  - Blackwater
+  - Tadley
+  - Farnborough
 
-* Yorkshire
-  * Harrogate
-  * Leeds
-  * Yeadon
-```
+- Yorkshire
+  - Harrogate
+  - Leeds
+  - Yeadon
 
 Bonus: render the counties and their towns in alphabetical order.
 
