@@ -6,7 +6,7 @@ Clone down this repo on your computer
 
 In the project directory, run:
 
-### `yarn start`
+`yarn start`
 
 ## The brief
 
@@ -15,21 +15,19 @@ In `src/locations/data/location-data` there is an array of locations imported in
 The brief is to use this array of locations to:
 
 1. group each location by its county
-2. list each county with it's towns in the `Locations` component so show like the example:
-
-Example:
+2. list each county with it's towns in the `Locations` component like this example:
 
 - Bedfordshire
 
-  - Leighton Buzzard
   - Ascot
   - Bracknell
+  - Leighton Buzzard
 
 - Hampshire
 
   - Blackwater
-  - Tadley
   - Farnborough
+  - Tadley
 
 - Yorkshire
   - Harrogate
