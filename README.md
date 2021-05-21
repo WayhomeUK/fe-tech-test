@@ -12,7 +12,7 @@ In the project directory, run:
 
 In `src/locations/data/location-data` there is an array of locations imported into `Locations`
 
-The brief is to use this array of locations to group each location by its county and list in the `Locations` component.
+The brief is to use this array to group each location by its county and list in the `Locations` component.
 
 Example
 
@@ -38,4 +38,4 @@ Bonus: render the counties and their towns in alphabetical order.
 Note:
 
 - No styling/ CSS work is needed
-- The Locations component is already displayed on the page
+- The `Locations` component is already displayed on the page
