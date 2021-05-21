@@ -2,41 +2,45 @@
 
 ## Set up
 
-Git clone this repo
+Clone down this repo on your computer
 
 In the project directory, run:
 
 ### `yarn start`
 
-## The challenge
+## The brief
 
 In `src/locations/data/location-data` there is an array of locations imported into `Locations`.
 
-The brief is to use this array of locations to
+The brief is to use this array of locations to:
 
-1. get all the counties used in the locations
-2. group each location by its country
-3. list the counties with it's towns on the page
+1. group each location by its county
+2. list each county with it's towns in the `Locations` component
 
 Example:
 
 ```
-- Bedfordshire
+* Bedfordshire
 
-  - Leighton Buzzard
-  - Ascot
-  - Bracknell
+    * Leighton Buzzard
+    * Ascot
+    * Bracknell
 
-- Hampshire
+* Hampshire
 
-  - Blackwater
-  - Tadley
-  - Farnborough
+  * Blackwater
+  * Tadley
+  * Farnborough
 
-- Yorkshire
-  - Harrogate
-  - Leeds
-  - Yeadon
+* Yorkshire
+  * Harrogate
+  * Leeds
+  * Yeadon
 ```
 
 Bonus: render the counties and their towns in alphabetical order.
+
+Note:
+
+- No styling/ CSS work is needed
+- The Locations component is already displayed on the page
