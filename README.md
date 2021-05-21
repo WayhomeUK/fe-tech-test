@@ -2,7 +2,7 @@
 
 ## Getting set up
 
-Clone down this repo on your computer
+Clone down this repo to your computer
 
 In the project directory, run:
 
@@ -12,10 +12,9 @@ In the project directory, run:
 
 In `src/locations/data/location-data` there is an array of locations imported into `Locations`
 
-The brief is to use this array of locations to:
+The brief is to use this array of locations to group each location by its county and list in the `Locations` component.
 
-1. group each location by its county
-2. list each county with it's towns in the `Locations` component like this example:
+Example
 
 - Bedfordshire
 
