@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import { locationsList } from "./data/location.data";
+import { locationsList } from "./data/location-data";
 
 function Locations() {
   return (
