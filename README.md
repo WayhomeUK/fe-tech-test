@@ -8,6 +8,8 @@ In the project directory, run:
 
 `npm i`
 
+`npm i @types/styled-components`
+
 and then
 
 `yarn start`
