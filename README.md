@@ -7,6 +7,7 @@ Clone down this repo to your computer
 In the project directory, run:
 
 `npm i`
+`npm i @types/styled-components`
 
 and then
 
