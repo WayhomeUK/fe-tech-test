@@ -6,6 +6,10 @@ Clone down this repo to your computer
 
 In the project directory, run:
 
+`npm i`
+
+and then
+
 `yarn start`
 
 ## The brief
