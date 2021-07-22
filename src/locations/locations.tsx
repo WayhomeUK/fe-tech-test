@@ -10,8 +10,6 @@ export const Locations = () => {
   );
 };
 
-export default Locations;
-
 const Wrapper = styled.div`
   display: flex;
   flex-direction: column;
