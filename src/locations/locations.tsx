@@ -1,10 +1,14 @@
-import React from "react";
 import styled from "styled-components";
+
+interface ILocation {
+  name: string,
+  county: string
+}
 
 export const Locations = () => {
   return (
     <Wrapper>
-      <Header>Locations</Header>
+      <Header>Locations where we buy properties</Header>
       {/* add your locations here */}
     </Wrapper>
   );
