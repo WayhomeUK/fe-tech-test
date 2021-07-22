@@ -1,4 +1,4 @@
-import Locations from "./locations/locations";
+import { Locations } from "./locations/locations";
 
 function App() {
   return <Locations />;

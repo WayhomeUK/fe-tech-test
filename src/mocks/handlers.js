@@ -1,6 +1,6 @@
 import { rest } from "msw";
 
-import { locationsList } from "../locations/data/location-data";
+import { locationsList } from "../data/location-data";
 
 export const handlers = [
   rest.get("/locations", (req, res, ctx) => {
