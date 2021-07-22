@@ -1,15 +1,14 @@
+import React from "react";
 import styled from "styled-components";
 
-import { locationsList } from "./data/location-data";
-
-function Locations() {
+export const Locations = () => {
   return (
     <Wrapper>
       <Header>Locations</Header>
       {/* add your locations here */}
     </Wrapper>
   );
-}
+};
 
 export default Locations;
 
