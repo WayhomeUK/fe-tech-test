@@ -10,6 +10,8 @@
 - Working in a team and pairing
 
 ## What we're not looking for
+- Being able to solve all the problems set in this test - *Just focus on how you'd approach a similar problem and go about your regular process*
+
 - Your memorization skills -  *Please feel free to ask questions/Google stuff if needed*
 
 - Styling/CSS/design skills
