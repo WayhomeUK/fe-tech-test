@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 interface ILocation {
-  name: string,
-  county: string
+  name: string;
+  county: string;
 }
 
 export const Locations = () => {
