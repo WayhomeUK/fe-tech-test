@@ -56,4 +56,4 @@ So that I can quickly understand if Wayhome can help me or not
 ---
 
 ## Notes
-- [msw](https://www.npmjs.com/package/msw) is set up to handle mock server calls, so making a network call to `/locations` will give the data in the `location-data.js` file. Checkout `mocks/handlers.js` to look at the msw setup.
+- [msw](https://www.npmjs.com/package/msw) is set up to handle mock server calls, so making a network call to `/locations` will give the data in the `location-data.js` file. Checkout `mocks/handlers.ts` to look at the msw setup.
