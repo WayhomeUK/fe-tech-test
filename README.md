@@ -10,6 +10,8 @@
 - Working in a team and pairing
 
 ## What we're not looking for
+- Being able to solve all the problems set in this test - *Just focus on how you'd approach a similar problem and go about your regular process*
+
 - Your memorization skills -  *Please feel free to ask questions/Google stuff if needed*
 
 - Styling/CSS/design skills
@@ -54,4 +56,4 @@ So that I can quickly understand if Wayhome can help me or not
 ---
 
 ## Notes
-- [msw](https://www.npmjs.com/package/msw) is set up to handle mock server calls, so making a network call to `/locations` will give the data in the `location-data.js` file. Checkout `mocks/handlers.js` to look at the msw setup.
+- [msw](https://www.npmjs.com/package/msw) is set up to handle mock server calls, so making a network call to `/locations` will give the data in the `location-data.js` file. Checkout `mocks/handlers.ts` to look at the msw setup.

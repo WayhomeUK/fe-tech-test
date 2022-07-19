@@ -4,9 +4,9 @@ import { render, screen } from "@testing-library/react";
 import { Locations } from "../locations";
 
 describe("<Location/>", () => {
-  it("should show title header", () => {
+  it("should show title header", async () => {
     render(<Locations />);
 
-    expect(screen.getByText("Locations")).toBeVisible();
+    expect(screen.getByText("Locations where we buy properties")).toBeVisible();
   });
 });
